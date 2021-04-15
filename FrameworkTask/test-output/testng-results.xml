@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="14" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="39899" started-at="2021-04-15T05:42:03Z" finished-at="2021-04-15T05:42:43Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="39899" started-at="2021-04-15T05:42:03Z" finished-at="2021-04-15T05:42:43Z">
+      <class name="com.atmecs.FrameworkTask.testscript.Automation">
+        <test-method status="PASS" signature="intitailizeBrowser(java.lang.String)[pri:0, instance:com.atmecs.FrameworkTask.testscript.Automation@e45f292]" name="intitailizeBrowser" is-config="true" duration-ms="2589" started-at="2021-04-15T05:42:03Z" finished-at="2021-04-15T05:42:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intitailizeBrowser -->
+        <test-method status="PASS" signature="invokeBrowser()[pri:0, instance:com.atmecs.FrameworkTask.testscript.Automation@e45f292]" name="invokeBrowser" is-config="true" duration-ms="8451" started-at="2021-04-15T05:42:05Z" finished-at="2021-04-15T05:42:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method status="PASS" signature="testing1(java.lang.String, java.lang.String)[pri:1, instance:com.atmecs.FrameworkTask.testscript.Automation@e45f292]" name="testing1" duration-ms="2911" started-at="2021-04-15T05:42:15Z" data-provider="Testing" finished-at="2021-04-15T05:42:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Computer Peripherals]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[printers]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing1 -->
+        <test-method status="PASS" signature="testing1(java.lang.String, java.lang.String)[pri:1, instance:com.atmecs.FrameworkTask.testscript.Automation@e45f292]" name="testing1" duration-ms="1494" started-at="2021-04-15T05:42:18Z" data-provider="Testing" finished-at="2021-04-15T05:42:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Computer Peripherals]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[food]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing1 -->
+        <test-method status="PASS" signature="testing1(java.lang.String, java.lang.String)[pri:1, instance:com.atmecs.FrameworkTask.testscript.Automation@e45f292]" name="testing1" duration-ms="1373" started-at="2021-04-15T05:42:19Z" data-provider="Testing" finished-at="2021-04-15T05:42:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Games]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Action]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing1 -->
+        <test-method status="PASS" signature="testing1(java.lang.String, java.lang.String)[pri:1, instance:com.atmecs.FrameworkTask.testscript.Automation@e45f292]" name="testing1" duration-ms="2319" started-at="2021-04-15T05:42:20Z" data-provider="Testing" finished-at="2021-04-15T05:42:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Games]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[toys]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing1 -->
+        <test-method status="PASS" signature="testing1(java.lang.String, java.lang.String)[pri:1, instance:com.atmecs.FrameworkTask.testscript.Automation@e45f292]" name="testing1" duration-ms="1393" started-at="2021-04-15T05:42:23Z" data-provider="Testing" finished-at="2021-04-15T05:42:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DVD Movies]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[comedy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing1 -->
+        <test-method status="PASS" signature="testing1(java.lang.String, java.lang.String)[pri:1, instance:com.atmecs.FrameworkTask.testscript.Automation@e45f292]" name="testing1" duration-ms="2241" started-at="2021-04-15T05:42:24Z" data-provider="Testing" finished-at="2021-04-15T05:42:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DVD Movies]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[class]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing1 -->
+        <test-method status="PASS" signature="testing1(java.lang.String, java.lang.String)[pri:1, instance:com.atmecs.FrameworkTask.testscript.Automation@e45f292]" name="testing1" duration-ms="1984" started-at="2021-04-15T05:42:26Z" data-provider="Testing" finished-at="2021-04-15T05:42:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Software]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing1 -->
+        <test-method status="PASS" signature="testing1(java.lang.String, java.lang.String)[pri:1, instance:com.atmecs.FrameworkTask.testscript.Automation@e45f292]" name="testing1" duration-ms="586" started-at="2021-04-15T05:42:28Z" data-provider="Testing" finished-at="2021-04-15T05:42:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Software]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[doors]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing1 -->
+        <test-method status="PASS" signature="testing1(java.lang.String, java.lang.String)[pri:1, instance:com.atmecs.FrameworkTask.testscript.Automation@e45f292]" name="testing1" duration-ms="3101" started-at="2021-04-15T05:42:29Z" data-provider="Testing" finished-at="2021-04-15T05:42:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Electronics]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Phones]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing1 -->
+        <test-method status="PASS" signature="testing1(java.lang.String, java.lang.String)[pri:1, instance:com.atmecs.FrameworkTask.testscript.Automation@e45f292]" name="testing1" duration-ms="2330" started-at="2021-04-15T05:42:32Z" data-provider="Testing" finished-at="2021-04-15T05:42:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Electronics]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[books]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing1 -->
+        <test-method status="PASS" signature="testing1(java.lang.String, java.lang.String)[pri:1, instance:com.atmecs.FrameworkTask.testscript.Automation@e45f292]" name="testing1" duration-ms="1573" started-at="2021-04-15T05:42:34Z" data-provider="Testing" finished-at="2021-04-15T05:42:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Home & Garden]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kitchen]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing1 -->
+        <test-method status="PASS" signature="testing1(java.lang.String, java.lang.String)[pri:1, instance:com.atmecs.FrameworkTask.testscript.Automation@e45f292]" name="testing1" duration-ms="2981" started-at="2021-04-15T05:42:36Z" data-provider="Testing" finished-at="2021-04-15T05:42:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Home & Garden]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cars]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing1 -->
+        <test-method status="PASS" signature="testing1(java.lang.String, java.lang.String)[pri:1, instance:com.atmecs.FrameworkTask.testscript.Automation@e45f292]" name="testing1" duration-ms="1864" started-at="2021-04-15T05:42:39Z" data-provider="Testing" finished-at="2021-04-15T05:42:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Gifts]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gift]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing1 -->
+        <test-method status="PASS" signature="testing1(java.lang.String, java.lang.String)[pri:1, instance:com.atmecs.FrameworkTask.testscript.Automation@e45f292]" name="testing1" duration-ms="564" started-at="2021-04-15T05:42:41Z" data-provider="Testing" finished-at="2021-04-15T05:42:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Gifts]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[plant]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing1 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.atmecs.FrameworkTask.testscript.Automation@e45f292]" name="closeBrowser" is-config="true" duration-ms="1160" started-at="2021-04-15T05:42:41Z" finished-at="2021-04-15T05:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.atmecs.FrameworkTask.testscript.Automation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
